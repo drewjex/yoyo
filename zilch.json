@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "YOYO",
+  "avatar": "caulANiIoUhbvf0aa",
+  "preferredColor": "forest",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
